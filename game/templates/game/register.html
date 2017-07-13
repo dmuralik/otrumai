@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block body %}
+    <div class="jumbotron">
+
+    	<form class="form-signin" method="post">
+    		<h3 class="form-signin-heading">Register</h3>
+    		{% if messages %}
+	    	    <ul>
+	    	    	{% for message in messages %}
+	    	    	<li> {{message}} </li>
+	    	    	{% endfor %}
+	    	    </ul>
+	    	{% endif %}
+
+    		{% csrf_token %}
+    		<table>
+    			{{ form.as_table }}
+    			<tr>
+    				<td></td>
+    				<td><button class="btn btn-lg btn-primary btn-block" type="submit">Register</button></td>
+    			</tr>
+    		</table>
+    	</form>
+
+    	<p>Already have an account? <a href="{% url 'login' %}">Login</a></p>
+    		
+    	
+    	
+    </div>
+
+{% endblock %}

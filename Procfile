@@ -1,0 +1,1 @@
+web: gunicorn otrumai.wsgi --log-file -

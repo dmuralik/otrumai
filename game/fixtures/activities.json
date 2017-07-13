@@ -1,0 +1,362 @@
+[
+	{
+		"model" : "game.Activity",
+		"pk": 1,
+		"fields": {
+			"phase": 1,
+			"step": 1,
+			"description": "Gender Equality is everyone’s business. Not just for women. Not just for men. Not just for those who identify as transgender, queer/questioning, gender binary, gender fluid, agender or any other gender identity. Michael Kimmel will <a href=\"https://www.youtube.com/watch?v=7n9IOH0NvyY\"> tell you why </a>, in his TED Talk."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 2,
+		"fields": {
+			"phase": 1,
+			"step": 2,
+			"description": "Understand the difference between sex and gender. Read up on what sex is and what gender are, and why they are different. <a href=\"https://tinyurl.com/yavrpwcm\">Resource</a>"
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 3,
+		"fields": {
+			"phase": 1,
+			"step": 3,
+			"description": "Did you know that gender and sex are beyond the binary - meaning that they are not restricted to male / female and masculine / feminine. Read up on what the binary means."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 4,
+		"fields": {
+			"phase": 1,
+			"step": 4,
+			"description": "With the binary and the beyond being established, we are now here to look at what gender identity looks like. Listen to this empowering <a href=\"https://www.youtube.com/watch?v=-Lm4vxZrAig\">TEDx Talk</a> by Yee Won Chong on what gender identity is like, and how it plays out in one’s life."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 5,
+		"fields": {
+			"phase": 1,
+			"step": 5,
+			"description": "Gender identity, gender expression, sexual identity, sexual orientation… quite a bit, huh? Listen to this amazing <a href=\"https://www.youtube.com/watch?v=NRcPXtqdKjE\">TEDx Talk</a> by Sam Killerman."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 6,
+		"fields": {
+			"phase": 1,
+			"step": 6,
+			"description": "What is a sexual orientation? While gender and sex constitute a part of one’s identity, they are also expressed - and then, there is also an orientation in terms of who one is attracted to and drawn to. Read this <a href=\"https://tinyurl.com/yczs45n5\">handbook</a> to understand what sexual orientation is."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 7,
+		"fields": {
+			"phase": 1,
+			"step": 7,
+			"description": "Understand what a <a href=\"http://feminists.scripts.mit.edu/website/?page_id=126\">gendered oppression</a> is. Read up on what <a href=\"http://everydayfeminism.com/2013/05/patriarchy-and-how-it-shows-up-for-everyone/\">patriarchy</a> is and how it shows up for everyone in their everyday lives."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 8,
+		"fields": {
+			"phase": 1,
+			"step": 8,
+			"description": "Feminism is one of the most important journeys in the global goal of seeking gender equality. Learn about Feminism and understand what it is. <a href=\"https://tinyurl.com/y8nga6ze\">Resource.</a>"
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 9,
+		"fields": {
+			"phase": 1,
+			"step": 9,
+			"description": "Let’s take a moment to understand that we’re not just up against patriarchy in the goal of seeking gender equality. Here’s <a href=\"http://everydayfeminism.com/2014/04/kyriarchy-101/\">more to mess things up</a> in the inequality equation!"
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 10,
+		"fields": {
+			"phase": 1,
+			"step": 10,
+			"description": "Did you know that gendered oppressions take on new dimensions with the intersection of other identity attributes like caste, colour, race, nationality among others? Learn about a new concept called intersectionality. Read an <a href=\"http://socialdifference.columbia.edu/files/socialdiff/projects/Article__Mapping_the_Margins_by_Kimblere_Crenshaw.pdf\">article by Kimberle Crenshaw</a>, who coined the concept of intersectionality."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 11,
+		"fields": {
+			"phase": 1,
+			"step": 11,
+			"description": "How does intersectional feminism play out in our everyday lives? Read <a href=\"https://tinyurl.com/ybzb5oo2\">this handbook</a> on how our gendered oppressions play out in our contemporary lives."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 12,
+		"fields": {
+			"phase": 1,
+			"step": 12,
+			"description": "Having learned all of this, you’re now in a better place because you’re \"Woke!\" BUT, there are still parts of your life where you might just be unconsciously carrying the patriarchy forward. Learn about the <a href=\"http://www.huffingtonpost.com/lisa-marie-jenkins/unconscious-gender-bias-e_b_7447524.html\">unconscious bias</a>."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 13,
+		"fields": {
+			"phase": 1,
+			"step": 13,
+			"description": "We should all be feminists. Chimamanda Ngozi Adichie left the world awakened to a very important truth. Here’s <a href=\"https://www.youtube.com/watch?v=hg3umXU_qWc&t=701s\">what</a> she has to say."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 14,
+		"fields": {
+			"phase": 1,
+			"step": 14,
+			"description": "Did you know that we are not the only purveyors of beliefs around gender equality? Films view women in a very problematic fashion. And it’s important to change that. Here’s a <a href=\"https://tinyurl.com/ydg6s77z\">handbook</a> that helps you see exactly what’s problematic about the portrayal of women in films."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 15,
+		"fields": {
+			"phase": 1,
+			"step": 15,
+			"description": "How many advertisements do you see in a day? Did you know that women are portrayed inappropriately in most advertisements today? Jean Kilbourne <a href=\"https://www.youtube.com/watch?v=Uy8yLaoWybk\">makes a compelling</a> presentation of what that looks like and why it is a problem."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 16,
+		"fields": {
+			"phase": 2,
+			"step": 1,
+			"description": "Take a look at all the notes you’ve made as you attended to the activities on days one through fifteen. Put together a blog post, or a series of blog posts and put them up on a blog of your own, or, start sharing them one a day on social media."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 17,
+		"fields": {
+			"phase": 2,
+			"step": 2,
+			"description": "Ask for some time from one of your teachers if you go to school or college, or from your boss if you go to work, or, from some of your friends if you’d like to do this outside of an institution. Spend time with them, sharing all that you have learned with them."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 18,
+		"fields": {
+			"phase": 2,
+			"step": 3,
+			"description": "Hold a gender equality meeting with your closest friends, or your family, or your colleagues, depending on what you chose to work with in yesterday’s activity. Ask them to share stories of how they have experienced these inequalities in their everyday lives."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 19,
+		"fields": {
+			"phase": 2,
+			"step": 4,
+			"description": "Follow one leading newspaper today. Identify all the different ways in which they have portrayed women - whether it is in their reporting, or in their advertisements, or in the photographs they choose to put. Write an article about it."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 20,
+		"fields": {
+			"phase": 2,
+			"step": 5,
+			"description": "Make a playlist of videos on YouTube that have insightful messages and thoughtful explanations surrounding gender equality. Try to curate a minimum of fifteen videos - you don’t have to have listened to all of them already, you can also make it a point to return to them. Share this playlist."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 21,
+		"fields": {
+			"phase": 2,
+			"step": 6,
+			"description": "Take one episode of one sitcom of your choice and spend some time watching it. Really, really watch it - listen to everything they say, watch the imagery and their interactions on screen. Make note of how gender is portrayed in the sitcom. Write an article about it."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 22,
+		"fields": {
+			"phase": 2,
+			"step": 7,
+			"description": "Identify a person of a gender different from yours. Sit down with them and ask them what they think about gender equality and how they find it playing out in their lives. Understand their experiences and make notes. Write an article about it - but don’t be judgmental!"
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 23,
+		"fields": {
+			"phase": 2,
+			"step": 8,
+			"description": "Watch an advertisement of your choice. Really, really watch it - listen to everything they say, watch the imagery and their interactions on screen. Make note of how gender is portrayed in the advertisement. Also make note to see how the gender portrayal even relates to the product they are advertising, and see if there’s any reason for that gender portrayal. Write an article about it."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 24,
+		"fields": {
+			"phase": 2,
+			"step": 9,
+			"description": "Watch what you say, today! Every time you find yourself either reasserting a gender stereotype, or watching your friend say it, make note. By the end of the day, share your number! The higher, the more things for us to work on bringing it down!"
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 25,
+		"fields": {
+			"phase": 2,
+			"step": 10,
+			"description": "Take a fairy tale of your choice - whether it is from your culture or something that is globally popular. Spend time reading it. Look for all elements in it that allow for gender inequality. Make notes, and discuss it with your parents."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 26,
+		"fields": {
+			"phase": 2,
+			"step": 11,
+			"description": "Look for a meme page / website online. Go from meme to meme and identify the many gender inequalities that most memes seem to put forward. Make notes, and write an article with the memes as images on it!"
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 27,
+		"fields": {
+			"phase": 2,
+			"step": 12,
+			"description": "Watch a movie today, and look for the way men and women are portrayed. It doesn’t matter if you can’t watch a movie - maybe spend some time remembering a movie that has remained in your mind. Make notes, and write an article about it!"
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 28,
+		"fields": {
+			"phase": 2,
+			"step": 13,
+			"description": "Make a list of all the different aspects of one’s identity that can affect a gendered oppression. Identify things like caste, race, and a range of circumstances and write one line on how they can affect one’s gendered oppression."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 29,
+		"fields": {
+			"phase": 2,
+			"step": 14,
+			"description": "Do you know what male privilege is? It is, well, simply put, a situation where men have privilege because of patriarchy, over women. Hold onto this handbook today and look through it, and write a letter to yourself to check your privilege."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 30,
+		"fields": {
+			"phase": 2,
+			"step": 15,
+			"description": "Did you know that you have a right to consent or not consent to anything that concerns you? This is particularly important in the gender context. Here’s what the concept of consent looks like. Read this <a href=\"https://tinyurl.com/y7mamewk\">handbook</a> today, and discuss consent with your friends and family."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 31,
+		"fields": {
+			"phase": 3,
+			"step": 1,
+			"description": "Identify one issue relating to gender equality that you care most about. It can be anything from workplace sexism to child marriage, to FGM or even gender-based bullying. Read about it and make notes."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 32,
+		"fields": {
+			"phase": 3,
+			"step": 2,
+			"description": "Decide how you want to act on it. Do you want to build a blog and write articles? Do you want to tweet about it every day? Do you want to make a handbook? Do you want to educate people on the issue you have chosen? Identify what you want to do and build an outline for your campaign."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 33,
+		"fields": {
+			"phase": 3,
+			"step": 3,
+			"description": "No matter what you chose yesterday, a lot of campaigning goes on online, and you can amplify your voice better. Build an online structure for your campaign. Create a social media account, or a page, for your campaign, today. You can make a logo and a name, too! If you’re adventurous, build a hash tag, too!"
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 34,
+		"fields": {
+			"phase": 3,
+			"step": 4,
+			"description": "A campaign is most successful if a wider network gets onto it and supports you. Remember, it is always the best to collaborate and not compete. Find five friends or co-workers who can support you in this. Talk to them about what their skills and talents are, identify if they have time and inclination to contribute to your campaign. Create a team and designate roles."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 35,
+		"fields": {
+			"phase": 3,
+			"step": 5,
+			"description": "Do your research on your campaign. What has been done before on this campaign? What has been successful? What has failed? Why have things been the way they are? Recalibrate your strategy to build into the impact you want to create."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 36,
+		"fields": {
+			"phase": 3,
+			"step": 6,
+			"description": "How will you measure the impact of your campaign? Make notes on how you will study how effective your campaign has been, and identify what you can do to evaluate it. Will you study the analytics on your social media? Will you interview those whom you work with? Will you conduct a survey?"
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 37,
+		"fields": {
+			"phase": 3,
+			"step": 7,
+			"description": "Kick your campaign off the floors! Go live with it and begin to engage. Take your first action today, and write a brief report on how it went."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 38,
+		"fields": {
+			"phase": 3,
+			"step": 8,
+			"description": "Start spreading your message wider. Join platforms like <a href=\"http://www.worldpulse.com\">World Pulse</a>, <a href=\"http://www.pcdn.org\">PCDN</a>, <a href=\"http://www.youthkiawaaz.com\">Youth Ki Awaaz</a> and start talking about the work you are doing. Build into these conversations better and create a wider network around you."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 39,
+		"fields": {
+			"phase": 3,
+			"step": 9,
+			"description": "Engage with one person offline today and tell them about your campaign. Have an open conversation on what you think they can help you with."
+		}
+	},
+	{
+		"model" : "game.Activity",
+		"pk": 40,
+		"fields": {
+			"phase": 3,
+			"step": 10,
+			"description": "Did you know that since you are working with Gender Equality, your campaign is already feeding into Sustainable Development Goal #5 of the United Nations? Read about the SDGs and identify which other <a href=\"https://sustainabledevelopment.un.org/sdgs\">SDGs</a> your campaign touches upon. Spread the message about how your work is meaningful because it is making a difference to the future."
+		}
+	}
+]

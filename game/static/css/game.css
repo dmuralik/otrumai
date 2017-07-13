@@ -1,0 +1,18 @@
+.sitewide-header {
+    background-color: #ff9400;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header {
+	padding-left: 25px ;
+}
+
+.page-content {
+	padding-left: 40px ;
+}
+
+body {
+  padding-bottom: 40px;
+  background-color: #eee;
+}
