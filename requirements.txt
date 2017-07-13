@@ -32,10 +32,7 @@ pyzmq==15.2.0
 requests==2.14.2
 simplegeneric==0.8.1
 six==1.10.0
-statsmodels==0.6.1
-tables==3.2.2
 terminado==0.5
 tornado==4.3
 traitlets==4.2.1
 vincent==0.4.4
-widgetsnbextension==1.2.6
