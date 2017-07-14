@@ -5,6 +5,7 @@ cffi==1.10.0
 cryptography==1.8.1
 cycler==0.10.0
 decorator==4.0.9
+dj-database-url==0.4.2
 Django==1.10.5
 geopy==1.11.0
 gunicorn==19.1.0
