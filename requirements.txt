@@ -19,6 +19,7 @@ packaging==16.8
 patsy==0.4.1
 pexpect==4.0.1
 pickleshare==0.5
+psycopg2==2.7.1
 ptyprocess==0.5
 pycosat==0.6.1
 pycparser==2.17
